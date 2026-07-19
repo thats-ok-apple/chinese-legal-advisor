@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国法律顾问"
+  short_description: "个人事务的中国现行法律检索与风险分析"
+  default_prompt: "Use $chinese-legal-advisor to analyze my Chinese legal question with current official sources."
